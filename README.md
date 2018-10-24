@@ -25,7 +25,7 @@ PowerApps allows you to convert any form and library into mobile or tablet ready
 
 Microsoft flows helps you with custom workflow and integration requirements. There are hundreds of connector available in the library that you can use to interact with disparate systems such as OracleDB, SQL etc.
 
-**SharePoint includes a wider variety of document management features than Google Docs, including:
+# SharePoint includes a wider variety of document management features than Google Docs, including:
 
 * Metadata tagging to help you organize and find documents quickly
 * Check-in/Check-out to prevent multiple users from editing a document at the same time
