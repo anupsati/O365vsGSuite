@@ -1,6 +1,6 @@
 # O365vsGSuite
 
-Reasons to pick Office 365 over G Suite
+Reasons to pick Office 365 over G Suite </br>
 Most Office 365 plans come with desktop versions of the Microsoft Office applications, making the product a much better fit for any organisation with clients that expect it be able to send, receive and edit MS Office files without difficulty.
 
 The Office 365 apps are generally more feature-rich than the G Suite equivalents.
