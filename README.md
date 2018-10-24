@@ -33,5 +33,26 @@ Microsoft flows helps you with custom workflow and integration requirements. The
 * Records management for managing the lifecycle of documents and providing for the ability to place documents into a legal hold state
 * Workflow processes may be triggered (e.g. approval/publishing of content) whenever a document is added, changed, or removed
 
-|   |   |
+| SharePoint FEATURES
+Access Services
+Compliance
+Customized Web Parts
+Library
+Durable Links
+Encrypted Connections
+Fast Site Collection Creation
+Identification of Sensitive Content
+Information Rights Managements
+Image/Video Preview
+Mini Roles
+Large File Support
+Mobile Support
+OneDrive Control
+Business Intelligence
+Search
+Site Pages Pinning
+SMTP Ports
+SMTP Encryptions
+WOPI
+Side Folders View  |   |
 |---|---|
