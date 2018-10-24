@@ -33,3 +33,4 @@ Microsoft flows helps you with custom workflow and integration requirements. The
 * Records management for managing the lifecycle of documents and providing for the ability to place documents into a legal hold state
 * Workflow processes may be triggered (e.g. approval/publishing of content) whenever a document is added, changed, or removed
 
+[Switch To Office365](https://support.office.com/en-us/article/switch-to-office-365-11aff781-f035-4434-9eea-da4b5f9e657f?ui=en-US&rs=en-US&ad=US)
