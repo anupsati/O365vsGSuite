@@ -32,3 +32,6 @@ Microsoft flows helps you with custom workflow and integration requirements. The
 * Document sets which allow a group of related documents to be treated as a single piece of content that share metadata and version history
 * Records management for managing the lifecycle of documents and providing for the ability to place documents into a legal hold state
 * Workflow processes may be triggered (e.g. approval/publishing of content) whenever a document is added, changed, or removed
+
+|   |   |
+|---|---|
